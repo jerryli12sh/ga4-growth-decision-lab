@@ -1,0 +1,4 @@
+scope,eligible_users,price_observed_users,zero_local_price_item_rows,negative_local_price_item_rows,min_local_item_price,max_local_item_price,local_price_quantity_min,local_price_quantity_median,local_price_quantity_max,unit_status
+primary_all,4872,4722,0,0,1.0,120.0,1.0,38.0,1793.0,"Currency missing at checkout; unverified native-price units, not USD or observed customer total"
+cap_missing_category_block,646,646,0,0,13.0,13.0,26.0,39.0,195.0,"Currency missing at checkout; unverified native-price units, not USD or observed customer total"
+exclude_cap_missing_category,4226,4076,0,0,1.0,120.0,1.0,37.0,1793.0,"Currency missing at checkout; unverified native-price units, not USD or observed customer total"

@@ -1,0 +1,11 @@
+scope,event_name,events,empty_array_events,single_item_events,multi_item_events,twelve_item_events,with_valid_sku_events,with_value_events,with_currency_events
+full_92d,add_payment_info,13899,13899,0,0,0,0,0,13899
+full_92d,add_shipping_info,19722,19722,0,0,0,0,0,19722
+full_92d,begin_checkout,38757,6766,16325,15666,83,30058,0,0
+full_92d,select_item,31007,1,2477,28529,25085,31006,0,0
+full_92d,view_item,386068,144192,8726,233150,219633,241876,0,0
+stable_57d,add_payment_info,8474,8474,0,0,0,0,0,8474
+stable_57d,add_shipping_info,11777,11777,0,0,0,0,0,11777
+stable_57d,begin_checkout,27983,0,13474,14509,80,27367,0,0
+stable_57d,select_item,27170,1,2200,24969,22038,27169,0,0
+stable_57d,view_item,226969,73754,5122,148093,139549,153215,0,0

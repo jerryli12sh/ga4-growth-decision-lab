@@ -1,0 +1,5 @@
+trigger,purchase_definition,users,purchase_7d_users,purchase_7d_rate,purchase_24h_rate,pre_history_coverage,median_delay_hours,same_timestamp_purchase_users,baseline_path,candidate_repeat_collapse_changed_y7_users,candidate_repeat_collapse_y7_rate
+first_view_ts,positive_merchandise,32715,2162,0.06608589332110652,0.05529573590096286,0.10279688216414488,0.4250014322222222,0,data/processed/validation/first_view_positive_merchandise.csv,0.0,0.06608589332110652
+first_view_ts,raw,32715,2258,0.0690203270670946,0.05792449946507718,0.10279688216414488,0.42816249055555555,0,data/processed/validation/first_view_raw.csv,,
+first_checkout_ts,positive_merchandise,4872,2364,0.4852216748768473,0.4685960591133005,0.3312807881773399,0.06487896958333333,0,data/processed/validation/first_checkout_positive_merchandise.csv,0.0,0.4852216748768473
+first_checkout_ts,raw,4872,2468,0.506568144499179,0.4899425287356322,0.3312807881773399,0.06478039027777777,0,data/processed/validation/first_checkout_raw.csv,,

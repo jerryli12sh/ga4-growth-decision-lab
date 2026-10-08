@@ -1,0 +1,5 @@
+sensitivity,eligible_users,purchase_7d_users,purchase_7d_rate,purchase_24h_users,index_payment_users,no_index_payment_users,no_index_payment_7d_nonbuyers,nonbuyers_7d,no_payment_share_of_7d_nonbuyers,window_first_observed_index_date,window_last_observed_index_date,evidence
+original_all_checkout_itt,4872,2364,0.4852216748768473,2283,3077,1795,1727,2508,0.6885964912280702,2020-11-30,2021-01-18,"retrospective sensitivity, not production eligibility or observed treatment effect"
+exclude_observed_single_cap_missing_category_sensitivity,4226,2364,0.5593942262186464,2283,3077,1149,1081,1862,0.5805585392051558,2020-11-30,2021-01-18,"retrospective sensitivity, not production eligibility or observed treatment effect"
+original_cohort_index_on_or_after_20201216_subset,1846,948,0.5135427952329361,925,1289,557,540,898,0.6013363028953229,2020-12-16,2021-01-18,"retrospective sensitivity, not production eligibility or observed treatment effect"
+reindexed_new_enrollment_window_from_20201216,1944,1023,0.5262345679012346,998,1380,564,546,921,0.5928338762214984,2020-12-16,2021-01-18,"retrospective sensitivity, not production eligibility or observed treatment effect"

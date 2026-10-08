@@ -1,0 +1,40 @@
+{
+  "evidence_label": "historical A/A replay plus semi-synthetic method validation; no observed intervention effect",
+  "baseline_path": "data/processed/validation/first_checkout_positive_merchandise.csv",
+  "baseline_n": 4872,
+  "baseline_purchase_rate": 0.4852216748768473,
+  "seed": 20261006,
+  "aa_repetitions": 500,
+  "rct_repetitions": 500,
+  "causal_repetitions": 300,
+  "simulation_n": 6000,
+  "synthetic_probability_difference": 0.05,
+  "training": {
+    "training_users": 437,
+    "evaluation_users": 3167,
+    "evaluation_start_ts": 1607468262254919,
+    "purged_or_excluded_users": 1268,
+    "preperiod_features": [
+      "log1p(pre_sessions_14d)",
+      "mobile",
+      "log1p(pre_purchases_14d)",
+      "pre_history_present",
+      "session_number_gt1",
+      "first_user_medium_organic",
+      "session_number_missing"
+    ]
+  },
+  "python": "3.13.3",
+  "package_versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "ci_notes": "OR and IPW are point estimates only. AIPW uses cross-fitted influence-score normal CIs. Coverage is evaluated, not guaranteed.",
+  "inference_notes": "Synthetic repetitions resample observed baseline covariates with replacement and generate new independent outcomes. Population truth is the fixed empirical baseline mixture, including the simulator-only latent U.",
+  "aa_notes": "A/A repeatedly randomizes unique existing evaluation users. It does not create independent real trials or validate a production assignment system.",
+  "elapsed_seconds": 46.9592010974884,
+  "status": "completed"
+}

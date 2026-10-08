@@ -1,0 +1,16 @@
+{
+  "evidence": "synthetic Bernoulli precision/design scenario, not observed treatment effect",
+  "baseline_path": "data/processed/validation/first_checkout_positive_merchandise.csv",
+  "baseline_rate": 0.4852216748768473,
+  "assumed_true_effect": 0.05,
+  "illustrative_commercial_floor": 0.025,
+  "target_power": 0.8,
+  "criterion": "two-sided 95% CI lower endpoint greater than commercial floor",
+  "approximate_n_per_arm": 6261,
+  "total_n": 12522,
+  "simulation_repetitions": 10000,
+  "seed": 20261007,
+  "simulated_probability_meeting_criterion": 0.7982,
+  "mcse": 0.004013436931110292,
+  "commercial_note": "The 2.5pp floor is illustrative and has not been justified by actual implementation cost or margin data."
+}

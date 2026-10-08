@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.ipynb_checkpoints/
+data/processed/
+results/report.html
+*.parquet
+*.sqlite
+*.sha256

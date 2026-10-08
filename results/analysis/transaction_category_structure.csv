@@ -1,0 +1,65 @@
+item_category,purchase_events,purchasing_users,item_quantity,item_revenue_usd,sku_ids,scope,item_revenue_share
+,210,206,594.0,7319.0,155,all_raw_events,0.02021209024881942
+(not set),448,397,,,1,all_raw_events,
+Accessories,892,775,2006.0,17815.0,41,all_raw_events,0.04919775758747342
+Apparel,3007,2430,5447.0,171727.0,372,all_raw_events,0.47423987186214134
+Bags,597,498,1053.0,23860.0,23,all_raw_events,0.0658915799066582
+Black Lives Matter,2,2,2.0,104.0,2,all_raw_events,0.00028720554527629727
+Campus Collection,840,737,2184.0,20061.0,115,all_raw_events,0.05540029272872884
+Clearance,532,493,906.0,11476.0,77,all_raw_events,0.0316920272845268
+Drinkware,657,532,1104.0,15807.0,11,all_raw_events,0.04365248129021568
+Electronics Accessories,52,40,57.0,579.0,1,all_raw_events,0.001598961641490155
+Fun,41,36,158.0,270.0,1,all_raw_events,0.0007456297810057717
+Gift Cards,12,9,58.0,2475.0,3,all_raw_events,0.006834939659219574
+Google,260,225,683.0,3115.0,4,all_raw_events,0.008602358399381404
+Lifestyle,549,450,816.0,13423.0,14,all_raw_events,0.037068846483112865
+New,1050,907,2132.0,25813.0,44,all_raw_events,0.07128496865593328
+Notebooks & Journals,37,33,111.0,695.0,3,all_raw_events,0.0019193062881444865
+Office,641,544,2075.0,9078.0,17,all_raw_events,0.025069730192482948
+Shop by Brand,756,629,1198.0,16960.0,29,all_raw_events,0.046836596614288475
+Small Goods,167,158,197.0,1737.0,4,all_raw_events,0.004796884924470465
+Stationery,209,188,712.0,1532.0,8,all_raw_events,0.004230758609262379
+Uncategorized Items,481,431,810.0,17394.0,35,all_raw_events,0.04803512744746072
+Writing Instruments,139,132,417.0,870.0,5,all_raw_events,0.0024025848499074865
+,207,206,587.0,7206.0,155,candidate_repeat_collapsed_positive,0.02115672003311793
+Accessories,844,775,1899.0,16876.0,41,candidate_repeat_collapsed_positive,0.049547711251581764
+Apparel,2789,2430,5052.0,159511.0,372,candidate_repeat_collapsed_positive,0.46832217169062923
+Bags,568,498,1015.0,22718.0,23,candidate_repeat_collapsed_positive,0.06669974544995463
+Black Lives Matter,2,2,2.0,104.0,2,candidate_repeat_collapsed_positive,0.0003053426149658985
+Campus Collection,793,737,2000.0,18683.0,115,candidate_repeat_collapsed_positive,0.05485303918661425
+Clearance,507,493,872.0,10910.0,77,candidate_repeat_collapsed_positive,0.0320316147045957
+Drinkware,620,532,1043.0,14898.0,11,candidate_repeat_collapsed_positive,0.043740329593864966
+Electronics Accessories,46,40,51.0,519.0,1,candidate_repeat_collapsed_positive,0.001523777088147128
+Fun,36,36,151.0,257.0,1,candidate_repeat_collapsed_positive,0.0007545485773676531
+Gift Cards,12,9,58.0,2475.0,3,candidate_repeat_collapsed_positive,0.007266567038851912
+Google,247,225,664.0,3035.0,4,candidate_repeat_collapsed_positive,0.00891071958097598
+Lifestyle,512,450,765.0,12869.0,14,candidate_repeat_collapsed_positive,0.037783212615347575
+New,1003,907,2038.0,24759.0,44,candidate_repeat_collapsed_positive,0.0726920942686604
+Notebooks & Journals,34,33,101.0,633.0,3,candidate_repeat_collapsed_positive,0.0018584795699366707
+Office,597,544,1936.0,8535.0,17,candidate_repeat_collapsed_positive,0.02505864633398023
+Shop by Brand,728,629,1162.0,16373.0,29,candidate_repeat_collapsed_positive,0.048070909950352465
+Small Goods,160,158,188.0,1653.0,4,candidate_repeat_collapsed_positive,0.0048531859859483675
+Stationery,194,188,677.0,1482.0,8,candidate_repeat_collapsed_positive,0.0043511322632640535
+Uncategorized Items,452,431,763.0,16273.0,35,candidate_repeat_collapsed_positive,0.04777731128211602
+Writing Instruments,133,132,404.0,832.0,5,candidate_repeat_collapsed_positive,0.002442740919727188
+,150,150,422.0,5190.0,127,core_window_collapsed_positive,0.023012765655553435
+Accessories,584,548,1227.0,11585.0,38,core_window_collapsed_positive,0.05136857227737699
+Apparel,1792,1594,3183.0,101253.0,347,core_window_collapsed_positive,0.44896176511016417
+Bags,427,364,711.0,17150.0,23,core_window_collapsed_positive,0.07604411001786926
+Black Lives Matter,1,1,1.0,58.0,1,core_window_collapsed_positive,0.00025717541580387273
+Campus Collection,522,484,1359.0,12315.0,104,core_window_collapsed_positive,0.054605435269391246
+Clearance,352,343,601.0,7370.0,65,core_window_collapsed_positive,0.03267901404266452
+Drinkware,397,336,702.0,9848.0,10,core_window_collapsed_positive,0.04366661197994032
+Electronics Accessories,31,31,35.0,354.0,1,core_window_collapsed_positive,0.0015696568481822575
+Fun,10,10,17.0,30.0,1,core_window_collapsed_positive,0.00013302176679510656
+Gift Cards,11,8,57.0,2425.0,3,core_window_collapsed_positive,0.010752592815937781
+Google,173,154,446.0,1997.0,4,core_window_collapsed_positive,0.008854815609660928
+Lifestyle,318,290,478.0,8185.0,14,core_window_collapsed_positive,0.03629277204059824
+New,696,619,1418.0,17396.0,44,core_window_collapsed_positive,0.07713488850558912
+Notebooks & Journals,16,16,70.0,445.0,3,core_window_collapsed_positive,0.0019731562074607476
+Office,381,360,1173.0,4995.0,15,core_window_collapsed_positive,0.022148124171385244
+Shop by Brand,543,461,886.0,11624.0,26,core_window_collapsed_positive,0.05154150057421063
+Small Goods,124,122,146.0,1241.0,4,core_window_collapsed_positive,0.005502667086424242
+Stationery,110,107,321.0,1019.0,8,core_window_collapsed_positive,0.004518306012140453
+Uncategorized Items,263,256,431.0,10417.0,30,core_window_collapsed_positive,0.04618959149015417
+Writing Instruments,96,96,318.0,630.0,5,core_window_collapsed_positive,0.002793457102697238

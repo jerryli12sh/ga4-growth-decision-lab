@@ -1,0 +1,21 @@
+check,passed,detail
+session_facts_rows,True,360129
+transaction_events_rows,True,5692
+item_daily_rows,True,241261
+event_semantics_profile_rows,True,28691
+checkout_index_facts_rows,True,11106
+checkout_local_price_rows,True,11106
+price_coverage_rows,True,3
+event_inventory_rows,True,4143
+retention_cohorts_rows,True,450
+daily_metrics_rows,True,92
+unique_session_key,True,360129
+session_boundaries,True,end >= start
+event_ids,True,5692
+source_events,True,4295584
+session_event_reconciliation,True,4295584
+purchase_rows,True,5692
+item_revenue,True,362110.0
+basket_keys,True,11106
+retention_bounds,True,0 <= retained <= cohort
+retention_d0,True,D0 = cohort
